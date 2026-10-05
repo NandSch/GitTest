@@ -1,1 +1,0 @@
-print("Raf lekt ijs")
